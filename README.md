@@ -1,4 +1,4 @@
-# TODO: Rewrite repository using webpack and a .vue file. npm run serve to build and view changes. Include a transition, component important, route change, and simple store
+# TODO: Rewrite repository using webpack and a .vue file. npm run serve to build and view changes. Include a transition, component import, route change, and simple store
 
 # Vue-Bulma-Beginner
 A short tutorial on getting started with Vue and Bulma
