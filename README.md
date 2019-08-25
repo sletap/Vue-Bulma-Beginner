@@ -1,4 +1,23 @@
-# vue-bulma-beginner
+# vue-bulma-tutorial
+A short tutorial on getting started with Vue and Bulma
+
+## Official Documentation
+
+[Bulma](https://bulma.io/documentation/)
+
+[Vue](https://vuejs.org/v2/guide/syntax.html)
+
+[Vue-Router](https://router.vuejs.org/)
+
+[Vuex](https://vuex.vuejs.org/)
+
+## Running this for the first time?
+
+```
+npm install
+
+npm run serve
+```
 
 ## Project setup
 ```
