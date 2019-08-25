@@ -5,7 +5,7 @@
       <!-- They change size dynamically depending on content on the page -->
       <!-- any new column that is added is recalculated -->
       <div class="column is-multiline">
-        <h1 class='title'>This is the about page</h1>
+        <h1 class='title'>This is the About.vue page</h1>
         <h1 class='title'>Notice that the URL changed</h1>
       </div>
     </div>

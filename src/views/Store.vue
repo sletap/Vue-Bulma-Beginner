@@ -3,7 +3,7 @@
     <!-- Store is kind of like a global state -->
     <!-- Look at store.js, bottom of router.js and this file for explanations for how you can use store -->
     <h1 class="title"> 
-      This is the Store page, where we'll be looking at using Store.vue  
+      This is the Store.vue Store.vue  
     </h1>
     <!-- The store should be prepopulated -->
     <!-- Grabbing something from our store -->
@@ -30,5 +30,12 @@ export default {
       return this.$store.state.dummy + '@umich.edu'
     }
   },
+
+  // TODO
+  // If you have components you want to display, import them above and then include them below
+  // If we have a component named Profile, we can use <Profile> in the above Template
+  components: {
+
+  }
 }
 </script>
