@@ -1,6 +1,5 @@
 # vue-bulma-tutorial
-A short tutorial on getting started with Vue and Bulma
-
+A short tutorial on getting started with Vue and Bulma. Most of the files have comments on them, start at App.Vue and then About.Vue
 ## Official Documentation
 
 [Bulma](https://bulma.io/documentation/)
