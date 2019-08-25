@@ -3,7 +3,7 @@
     <!-- Store is kind of like a global state -->
     <!-- Look at store.js, bottom of router.js and this file for explanations for how you can use store -->
     <h1 class="title"> 
-      This is the Store.vue Store.vue  
+      This is the Store.vue  
     </h1>
     <!-- The store should be prepopulated -->
     <!-- Grabbing something from our store -->
