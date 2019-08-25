@@ -16,6 +16,12 @@
               <button class='button is-link'> About Page </button> 
             </router-link>
           </div>
+          
+          <div class="navbar-item">
+            <router-link to="/store">
+              <button class='button is-link'> Store Page </button> 
+            </router-link>
+          </div>
         </div>
       </div>
     </div>
